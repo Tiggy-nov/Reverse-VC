@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Scalability and Capacity"
+  short_description: "Find growth bottlenecks and capacity constraints"
+  default_prompt: "Use $vc-scalability to find the binding growth constraint in this data room and test the next-stage sales, deployment, support and cash assumptions. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

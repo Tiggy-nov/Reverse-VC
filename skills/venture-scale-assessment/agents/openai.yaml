@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venture Scale Assessment"
+  short_description: "Assess venture potential at Seed and Series A"
+  default_prompt: "Use $venture-scale-assessment to judge this company’s venture-scale potential, calibrate the evidence to Seed or Series A, and identify the decisive next proof points. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

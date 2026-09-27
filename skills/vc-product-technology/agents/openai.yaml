@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Product and Technology"
+  short_description: "Test product value, AI quality and technical claims"
+  default_prompt: "Use $vc-product-technology to test the product and AI-quality claims in this data room, cite the underlying evidence, and identify the next decisive evaluation. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

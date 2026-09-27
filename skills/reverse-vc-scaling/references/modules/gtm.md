@@ -1,0 +1,22 @@
+# GTM strategy and commercial repeatability
+
+Question: can the company repeatedly reach the right customers, win trust and budget, deliver value, and retain or expand the relationship at sustainable acquisition cost?
+
+Use the standalone vc-gtm-stress-test when available. This local module is a self-contained fallback; use [the shared test contract](../challenge-loop.md). GTM is a core investment workstream. Test its interaction with product value and retention rather than assume one always outweighs the other.
+
+Inputs: segment/ICP and triggers, user/buyer/budget map, positioning and proof, CRM stages and dates, channel costs/attribution, pilots and commercial terms, activation/production dates, cohort behavior, acquisition labor, delivery economics, seller ramp and partner terms.
+
+## High-value tests
+
+1. **Segment, buyer and offer.** Define eligible initial buyers, buying trigger, existing alternative, decision maker, proof needed and budget path. Compare actual purchases with interview enthusiasm and founder-network access. Check that price/contract terms match how buyers approve spending, and that the reason to switch is supported by customer behavior.
+2. **Distribution and motion.** Test sales-led, product-led, developer, consumer, community, partner or hybrid routes against the actual buying process. Trace a growth loop to qualified retained outcomes. Inspect channel access, concentration, incentives, customer ownership and marginal returns; an announcement or free signup is not a production purchase.
+3. **Funnel and pilot integrity.** Use consistent account/opportunity identities, stage definitions and dated cohorts. Separate free design partners, paid pilots, signed production contracts and deployed recurring customers. Show decisions due, decisions made, losses/no-decision and pending cohorts separately. Deduplicate overlapping channel influence and distinguish attribution from incremental growth.
+4. **Value, retention and economics.** Define first meaningful value and natural repeat use. Compare retention by cohort age, segment and channel; exclude new logos from NRR/GRR. Match fully loaded acquisition costs to the relevant customer cohort; media-only cost is a separate metric. Simple payback = CAC / comparable monthly gross profit per customer, conditional on stable economics; use cumulative gross profit for changing cohorts and separate cash recovery.
+5. **Repeatability and AI-specific risk.** Test transfer beyond founders, friendly customers and early novelty. Inspect the production buying committee, data/security/implementation work, human delivery cost and customer-value evidence. For AI-assisted outreach, inspect qualified outcomes after QA/failed attempts; for AI search, treat repeated query observations as visibility evidence and inspect downstream demand separately. A mention or attributed customer does not prove incremental acquisition.
+6. **Scale scenario and next proof.** Test a material shock such as weaker channel access, slower pilot graduation, founder unavailability, incumbent bundling or increased spend with lower-quality audiences. Change conversion, cost, ramp, retention, delivery and cash timing coherently. Do not assume doubling spend doubles customers. Give a proposed experiment with population, metric, criterion/basis, owner, cost/time and decision; do not launch it without authorization.
+
+At Seed, assess focused learning and initial commitments without requiring mature cohorts or a fully staffed sales engine. At Series A, examine repeated outcomes and emerging motion/economic evidence; at growth, examine marginal channel performance and expansion at scale. No universal conversion, CAC/payback or sales-cycle cutoff decides readiness.
+
+Output: commercial thesis and source-backed funnel/channel assessment; strongest GTM evidence; binding commercial failure mechanism; explicit coverage/unknowns; and a prioritized next test. For a narrow request, return only the relevant calculation or finding and material dependencies.
+
+Handoffs: demand/qualification and seller assumptions → scalability; onboarding and accepted customer value ↔ product; pricing and delivery margins ↔ business model; channel concentration and substitutes ↔ competition; budgets and reachable segments ↔ market; education ↔ category; ramp, costs and collections ↔ finance/team. Reuse the same source/cohort definitions, and do not count one causal issue as multiple independent findings.

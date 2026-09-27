@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Category Creation and Timing"
+  short_description: "Test category creation, buyer budgets and timing"
+  default_prompt: "Use $vc-category-creation to challenge the category-creation and why-now claims in this data room using buyer behavior and dated enabling evidence. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

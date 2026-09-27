@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Business Model and AI Economics"
+  short_description: "Test monetization, AI costs and unit economics"
+  default_prompt: "Use $vc-business-model to stress-test this company’s monetization and AI unit economics, matching subscription and usage revenue to the full delivery cost. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

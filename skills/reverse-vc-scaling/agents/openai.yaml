@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reverse VC Scaling"
+  short_description: "Stress-test AI businesses from Seed to growth"
+  default_prompt: "Use $reverse-vc-scaling to stress-test this business and its fundraising materials using the relevant specialist modules, strengthen supported claims, and retest the revised package. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Competition and Defensibility"
+  short_description: "Challenge differentiation and moat durability"
+  default_prompt: "Use $vc-competition-defensibility to challenge the competitive and moat claims in this data room, including incumbents, internal builds and model providers. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

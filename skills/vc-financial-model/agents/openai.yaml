@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Financial Model and Capital"
+  short_description: "Check forecasts, runway, metrics and capital needs"
+  default_prompt: "Use $vc-financial-model to inspect this financial model, reconcile material metrics and forecast drivers, and test runway and funding milestones. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

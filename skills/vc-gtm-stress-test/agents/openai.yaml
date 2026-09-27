@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC GTM Stress Test"
+  short_description: "Test acquisition, conversion and retained growth"
+  default_prompt: "Use $vc-gtm-stress-test to challenge this company’s go-to-market strategy, channel evidence, pilot conversion, retention and acquisition economics, then prioritize the next proof-producing test. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

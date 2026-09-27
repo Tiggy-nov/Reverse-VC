@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Team, Execution and Governance"
+  short_description: "Test team capabilities, hiring and governance"
+  default_prompt: "Use $vc-team-governance to assess whether this team can execute the next stage, including capability gaps, hiring dependencies and decision rights. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

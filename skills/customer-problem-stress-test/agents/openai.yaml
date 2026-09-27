@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Problem Stress Test"
+  short_description: "Test customer pain, urgency, budgets and demand"
+  default_prompt: "Use $customer-problem-stress-test to challenge whether this company solves a valuable customer problem, distinguish evidence from enthusiasm, and design the next validation test. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."

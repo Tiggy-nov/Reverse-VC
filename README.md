@@ -41,7 +41,7 @@ Follow the CLI prompts to choose your agent and installation scope. See the [ski
 
 ### Claude web or desktop
 
-[Download the Claude bundle](https://github.com/Tiggy-nov/Reverse-VC/raw/refs/heads/main/downloads/vc-skills-claude-uploads.zip), unzip it once, and upload the individual skill ZIPs you want. Each inner ZIP contains one complete skill.
+[Download the Claude bundle](https://github.com/Tiggy-nov/Reverse-VC/releases/download/v0.1.0/vc-skills-claude-uploads.zip), unzip it once, and upload the individual skill ZIPs you want. Each inner ZIP contains one complete skill.
 
 Claude's documented route is **Customize → Skills → + → Create skill → Upload a skill**. Enable the uploaded skill and Code execution and file creation where required. Availability can depend on workspace permissions. See [Claude's current installation guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 

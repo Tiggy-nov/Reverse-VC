@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC Market Opportunity"
+  short_description: "Rebuild market size and reachable buyer demand"
+  default_prompt: "Use $vc-market-opportunity to rebuild and challenge the market-size claim in this data room, including buyer eligibility, price and obtainable share. Adapt to the company’s AI B2B/enterprise market, Seed or Series A maturity, and proposed fundraising amount and milestones."
